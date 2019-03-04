@@ -1,5 +1,5 @@
 PKG_NAME := R-rmutil
-URL = https://cran.r-project.org/src/contrib/rmutil_1.1.2.tar.gz
+URL = https://cran.r-project.org/src/contrib/rmutil_1.1.3.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
