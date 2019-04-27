@@ -4,7 +4,7 @@
 #
 Name     : R-rmutil
 Version  : 1.1.3
-Release  : 10
+Release  : 11
 URL      : https://cran.r-project.org/src/contrib/rmutil_1.1.3.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/rmutil_1.1.3.tar.gz
 Summary  : Utilities for Nonlinear Regression and Repeated Measurements
